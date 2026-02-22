@@ -1,14 +1,24 @@
-# 🚀 Single-Page HTML CV
+# 🗺️ Roadmap.sh Projects
 
-It is a project on roadmap website- single page cv built with html only.
-project link-https://roadmap.sh/projects/single-page-cv
+Welcome to my master repository for [roadmap.sh](https://roadmap.sh) learning projects! 
 
-## 🛠️ Built With
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+This repository serves as a portfolio of the individual mini-projects and exercises I am building as I progress through the developer roadmaps. Each folder contains a standalone project.
 
-## 💻 Getting Started
-To get a local copy up and running, follow these simple steps.
+## 📂 Projects Directory
 
-1. Clone the repo:
+Here are the projects I have completed so far. Click on any project folder to view its source code and specific details!
+
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **Single-Page HTML CV** | A clean, single-page resume built entirely with plain HTML. | [📁 View Code](./htmlCV/) |
+| **Basic HTML Website** | *(Coming Soon!)* | |
+
+---
+
+## 💻 How to View Locally
+
+If you want to download and run any of these projects on your own machine, follow these steps:
+
+1. Clone this entire master repository:
    ```bash
-   git clone [https://github.com/GauravPathak09/Single-Page-HTML-CV](https://github.com/GauravPathak09/Single-Page-HTML-CV)
+   git clone https://github.com/GauravPathak09/RoadMap.sh-Projects.git
