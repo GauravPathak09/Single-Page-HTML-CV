@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website built to practice modern CSS layout techniques, typography, and color schemes. This project takes a previous HTML-only structure and brings it to life with styling.
 
-**Project URL:** https://roadmap.sh/projects/personal-portfolio
+**Project URL:** https://roadmap.sh/projects/portfolio-website
 
 ## 🎯 Project Features
 * **Responsive Design:** Built using CSS Flexbox and the Box Model to ensure a structured layout.
