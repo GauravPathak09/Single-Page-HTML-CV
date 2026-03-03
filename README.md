@@ -20,6 +20,10 @@ A multi-page website built to practice core HTML tags, semantic structure, and p
 * **Local Folder:** [📁 View Source Code](./basic-html-website/)
 * **Project URL:** https://roadmap.sh/projects/basic-html-website
 
+### 3. Personal Portfolio (CSS Styled)
+A fully styled, responsive personal portfolio demonstrating Flexbox, CSS Variables, and Dark Mode.
+* **Local Folder:** [📁 View Source Code](./personal-portfolio/)
+* **Project URL:** https://roadmap.sh/projects/personal-portfolio
 ---
 
 ## 💻 How to View Locally

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaurav Pathak - Simple HTML Website</title>
+    <meta name="description" content="A simple website made only with HTML.">
+    <meta name="keywords" content="Frontend Developer, HTML Portfolio, Web Engineering">
+    <meta name="author" content="Gaurav Pathak">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+       <h2>Gaurav Pathak</h2>
+    <nav>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="article.html">Articles</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+       </nav>
+    </header>
+    <section id="Contact-Page">
+        <h2>Contact Me</h2>
+        
+        <form class="contact-form" action="mailto:gauravpathak128@gmail.com" method="post">
+            <div>
+                <label for="name"><strong>Full Name</strong></label>
+                <input type="text" id="name" name="name" placeholder="Enter Your Name" required>
+            </div>
+            <br>
+            <div>
+                <label for="email"><strong>Email Address</strong></label>
+                <input type="text" id="email" name="email" placeholder="Enter Your email" required>
+            </div>
+            <br>
+            <div>
+                <label for="message"><strong>Enter Message</strong></label>
+                <input type="text" id="message" name="message" placeholder="Enter Your Message" required>
+            </div>
+            <br>
+           
+                <button type="submit">Send Message</button>
+            
+        </form>
+        <hr>
+    </section>
+    </body>
+</html>
