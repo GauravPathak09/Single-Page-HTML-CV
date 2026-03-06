@@ -24,6 +24,11 @@ A multi-page website built to practice core HTML tags, semantic structure, and p
 A fully styled, responsive personal portfolio demonstrating Flexbox, CSS Variables, and Dark Mode.
 * **Local Folder:** [📁 View Source Code](./personal-portfolio/)
 * **Project URL:** https://roadmap.sh/projects/portfolio-website
+
+### 4. Changelog Component
+A responsive vertical timeline displaying application updates and version history. Built to practice CSS positioning and layout techniques.
+* **Local Folder:** [📁 View Source Code](./changelog-component/)
+* **Project URL:** https://roadmap.sh/projects/changelog-component
 ---
 
 ## 💻 How to View Locally
